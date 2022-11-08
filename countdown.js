@@ -1,4 +1,4 @@
-let countDate = new Date("Feb14, 2023, 00:00:00").getTime();
+let countDate = new Date("Feb22, 2023, 00:00:00").getTime();
 
 function newYear() {
     let now = new Date();
